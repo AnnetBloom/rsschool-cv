@@ -2,3 +2,5 @@
 ## Contacts
 ## Skills
 ## Education
+## Experience
+## English
