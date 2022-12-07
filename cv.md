@@ -1,2 +1,4 @@
 # Anna
 ## Contacts
+## Skills
+## Education
