@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://AnnetBloom.github.io/rsschool-cv/cv
+https://AnnetBloom.github.io/rsschool-cv/
